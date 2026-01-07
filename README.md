@@ -6,9 +6,6 @@ This project allows you to **batch convert PowerPoint files (`.pptx`) to PDF** u
 
 In addition, it can **optionally remove embedded media (videos / audio)** from presentations **before conversion**, reducing file size and avoiding heavy PDFs.
 
-🔗 **GitHub Repository:** [https://github.com/ibodeth/Pptx-To-Pdf](https://github.com/ibodeth/Pptx-To-Pdf)
-
----
 
 ## 🚀 Features
 
