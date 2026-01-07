@@ -35,10 +35,6 @@ In addition, it can **optionally remove embedded media (videos / audio)** from p
 
 ## 📋 Requirements
 
-### ✅ Recommended Python Version
-
-* **Python 3.11.9**
-
 ### ✅ Required Software
 
 * **LibreOffice** (installed locally)
